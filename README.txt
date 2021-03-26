@@ -1,0 +1,1 @@
+Парсер работ для сайта https://russia.superjob.ru/. на вход получает ссылку на интересующую професию (пример электрик: https://russia.superjob.ru/vakansii/elektrik.html?page=43), количество пагенаций (пример: 10), название файла (пример: JustFile)
